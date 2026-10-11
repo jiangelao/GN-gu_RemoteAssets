@@ -1,0 +1,42 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "ParticleLinearGather",
+      "id_type": "NODETREE",
+      "files": [
+        "\u7c92\u5b50\u7ebf\u6027\u805a\u96c6.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c0944e9c-00f8-4b0e-b990-2ee08da4079b",
+        "author": "\u51e0\u4f55\u8282\u70b9\u5495",
+        "description": "test",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "\u7c92\u5b50\u7ebf\u6027\u805a\u96c6.blend",
+      "size_in_bytes": 136398,
+      "hash": "SHA256:94e17e2c33fb3863389b4ecea485f99a6e465bac5619e7b4f13f41fb6ed39547",
+      "blender_version": "5.2.44",
+      "url": "%E7%B2%92%E5%AD%90%E7%BA%BF%E6%80%A7%E8%81%9A%E9%9B%86.blend"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:6d787c113fd36021db52468d30ddeb52af4c6d63b79adddc4b66f7cc9596a3a1"
+    }
+  },
+  "name": "GN-gu's remoteAssets",
+  "contact": {
+    "name": "GN-gu",
+    "url": "https://example.org/",
+    "email": "2277870371@qq.com"
+  }
+}
